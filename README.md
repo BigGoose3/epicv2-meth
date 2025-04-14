@@ -1,5 +1,5 @@
 # epicv2-meth
-My attempt on creating a methylation pipeline that is fully compatible with the Illumina Methylation EPICv2 Array. 
+Attempt on creating a methylation pipeline that is fully compatible with the Illumina Methylation EPICv2 Array. 
 
 **Requires Rv4.4.x or greater and DMRcate of >3.0**
 
